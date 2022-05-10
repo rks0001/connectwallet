@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btncon{
+    padding: 10px 16px;
+    margin: 30px 0 ;
+    overflow: hidden;
+    
+}
+
+    .btnconnect{
+    background-color: #077CC5;
+    color: white;
+    border: 2px solid #077CC5;
+    border-radius: 28px;
+    padding: 10px 16px;
+    margin: 30px 0 ;
+  font-size: 20px;
+  }
+  
+  .acc_over{
+  overflow: hidden;
+  width:20px;
+  color:white;
+  }
