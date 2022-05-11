@@ -8,7 +8,16 @@ const Section1 = () => {
 
     <Header/>
         <div className='content'>
-            Hey👋, Connect your wallet 
+            Hey👋, Connect your wallet <br/>
+            Check the project here 
+           
+
+        </div>
+        <div className='btncon'>
+        <button className='git_btn'><a className="link" href='https://github.com/rks0001/connectwallet ' target='_blank' rel="noreferrer">Github</a></button> 
+        </div>
+        <div className='imgsone'>
+          
         </div>
     </div>
         

@@ -6,5 +6,26 @@
 .content{
     color: white;
     text-align: center;
-    padding: 1.25rem 0;
+    padding: 8rem 0 0 0;
+    font-size: 1.5rem;
+}
+
+.imgsone{
+    
+}
+.btncon{
+    text-align: center;
+}
+
+.git_btn{
+    background-color:#034732;
+    border: 2px solid #034732;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    padding: 0.4rem 2rem;
+}
+
+.link{
+color: white;
+text-decoration: none;
 }
