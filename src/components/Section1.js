@@ -19,6 +19,9 @@ const Section1 = () => {
         <div className='imgsone'>
           
         </div>
+        <div className='alert'>
+        For the best experience, please visit <b>https://connectyourwallet.netlify.app/</b> on your favourite desktop.
+        </div>
     </div>
         
     </>

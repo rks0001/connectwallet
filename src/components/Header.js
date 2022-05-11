@@ -7,6 +7,7 @@ const Header = () => {
     <>
         <div className='bighead'>
           <div className="logo" >Connect your Wallet 🦊</div>
+
           <div className='connectbtn'><Connect/></div>
         </div>
     

@@ -1,6 +1,6 @@
 import '../styles/connect.css';
 import { React, useEffect, useState } from "react";
-import { Contract, providers } from "ethers";
+
 
 const Connect = () => {
     const [isWalletInstalled, setIsWalletInstalled] = useState(false);
